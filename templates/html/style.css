@@ -152,6 +152,48 @@ main {
     margin-bottom: 0.5em;
 }
 
+/* ── Home page ───────────────────────────────────── */
+
+.home-main {
+    max-width: var(--width);
+    margin: 6rem auto;
+}
+
+.section-nav {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+}
+
+.section-link {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.25rem 0;
+    border-bottom: 1px solid var(--rule);
+    text-decoration: none;
+    color: var(--text);
+}
+
+.section-link:first-child {
+    border-top: 1px solid var(--rule);
+}
+
+.section-link:hover .section-name {
+    text-decoration: underline;
+    text-underline-offset: 3px;
+}
+
+.section-name {
+    font-size: 1.05rem;
+    font-weight: 600;
+}
+
+.section-arrow {
+    font-family: var(--sans);
+    color: var(--muted);
+}
+
 /* ── Index page ──────────────────────────────────── */
 
 .index-main {
