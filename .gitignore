@@ -1,0 +1,17 @@
+# LaTeX build artifacts (compile locally, never commit)
+*.pdf
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.synctex(busy)
+*.bbl
+*.bcf
+*.blg
+*.run.xml
+
+# macOS
+.DS_Store
