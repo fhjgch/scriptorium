@@ -1,6 +1,12 @@
 # Scriptorium
 
-A personal writing repository. Blog posts and newsletters written in LaTeX, published as HTML to GitHub Pages.
+The word *scriptorium* referred to the room in a medieval monastery where monks copied manuscripts. Here it is something more modest: a folder on a hard drive, a few text files, and the habit of returning to them.
+
+Writing things down forces you to find out what you actually think. The act of composing a sentence is not a record of a thought already formed — it is the formation of the thought itself.
+
+---
+
+Blog posts and newsletters written in LaTeX, published as HTML to GitHub Pages.
 
 ## Writing
 
