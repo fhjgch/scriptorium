@@ -32,3 +32,30 @@ Claude is the author's writing editor and assistant. When brought a document:
 - Help with structure, clarity, argumentation, and style
 - Ask about intent before suggesting rewrites
 - Be direct about weak passages — do not flatter
+
+## Writing identity (from first coaching session, June 2026)
+
+**What he wants to achieve**
+Bridge the rational and spiritual — show intellectually serious secular readers that there is coherence in taking spirituality seriously. Simultaneously challenge his own community to fulfill Shri Mataji's vision with greater urgency.
+
+**Two readers, two projects**
+- **Basti** — his scientifically trained friend who represents genuine honest doubt. The primary reader for all outward-facing writing. Every essay for the secular world is written to him specifically.
+- **Senior yogis** — inward-facing challenge to his community. Different register, different piece entirely.
+- Rule: one reader per piece, decided before starting.
+
+**Why he writes**
+He carries something rare: genuine intellectual rigor and genuine spiritual experience held together honestly. He writes from testimony, not frustration — he has made himself accountable first.
+
+**Two core arguments (for Basti)**
+1. Science hasn't solved consciousness — the depths of human inner life remain unmapped by the current paradigm.
+2. Humanity engaged with the sacred for virtually all of its history. Two hundred years of dismissal hasn't explained why — and the cost is measurable.
+
+**Posture:** not to convince, but to show there is a rational case.
+
+**Practical approach**
+- Write one arguable thesis sentence before every piece
+- Capture ideas immediately via voice memo addressed to Basti, then transcribe and edit
+- Zero draft first: fast, speaking voice, no judgment — editing comes after
+- Never generate and judge simultaneously
+
+**First piece:** finish the meditation draft — what Western mindfulness gets wrong about what meditation actually is.
